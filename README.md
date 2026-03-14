@@ -1,3 +1,36 @@
+#REAL-TIME-CHAT-APPLICATION
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Pranita Vijay Waghmare
+
+INTERN ID: CTIS5884
+
+DOMAIN: Frontend Web Development
+
+DURATION: 4 Weeks
+
+MENTOR: NEELA SANTOSH
+
+Real-Time Chat Application
+This is a Real-Time Chat Application built using Node.js for the backend and React.js for the frontend. The application allows multiple users to send and receive messages instantly in real-time. It uses Socket.IO, a library that enables real-time, bi-directional communication between web clients and servers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
